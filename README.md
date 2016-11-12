@@ -25,21 +25,6 @@ Install peewee
 pip install peewee
 ```
 
-Install OAuthlib
-
-```Python
-pip install Flask-OAuthlib
-```
-
-Install Flask Sentinel
-
-```Python
-pip install flask-sentinel
-```
-
-Documentation
-https://github.com/nicolaiarocci/flask-sentinel
-
 Execute Server
 
 ```Python
